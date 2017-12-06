@@ -15,7 +15,7 @@
     "type": "DOCKER",
     "volumes": [],
     "docker": {
-      "image": "keithmcclellan/marathon-autoscale",
+      "image": "marianitadn/marathon-autoscale:850b4d8",
       "portMappings": [],
       "privileged": false,
       "parameters": [],
